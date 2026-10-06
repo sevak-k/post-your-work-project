@@ -3,7 +3,7 @@
 
 # Bikeshare starter
 
-The project teaches you how to take a real dataset, let a user select what they want to analyze, process it with Python/Pandas, and return useful statistics. this is a project for data-analysis program for US bike-sharing data like Chicago, New York City and Washington — using Python..
+This project involves developing a data analysis program for U.S. bike-sharing data from cities such as Chicago, New York City, and Washington. Using Python and Pandas, the program allows users to select the data they want to analyze, processes their input, and generates meaningful statistics and insights.
 
 ## Information about how to use your project
 
@@ -19,7 +19,6 @@ The project teaches you how to take a real dataset, let a user select what they 
     ```bash
     pip install pandas numpy
     ```
-
 ## Contribution guidelines
  contributions are welcome. You can 
 1. Fork the repository
@@ -29,5 +28,4 @@ The project teaches you how to take a real dataset, let a user select what they 
 ## Credits
 Dataset Source: **Udacity Bikeshare Data**
 ## Date created
-
 06.10.2027
